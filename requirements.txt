@@ -1,0 +1,15 @@
+beautifulsoup4==4.13.4
+chromadb==1.0.13
+google-cloud-storage==2.18.0
+google-auth==2.34.0
+google-genai
+google-cloud-logging
+graphviz==0.21
+langchain_core==0.3.66
+langchain_google_vertexai==2.0.26
+langgraph==0.5.0
+Pillow==11.2.1
+playwright==1.52.0
+protobuf==6.31.1
+python-dotenv==1.1.1
+streamlit==1.46.0
