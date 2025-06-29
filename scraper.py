@@ -48,8 +48,8 @@ class ContentScraper:
         """Scrape content and take screenshots, content"""
         async with async_playwright() as p:
             # launch the browser with now browser window
-            # as we dont want to open browser window
-            browser = await p.chromium.launch(headless=False)
+            # as we dont want to open browser window in case of dockerized cloudrun deployed run
+            browser = await p.chromium.launch(headless=True)
             # opens the new page
             page = await browser.new_page()
 
