@@ -162,9 +162,3 @@ MIT License © 2025 [Sayan Hazra](https://github.com/hazrasayan)
 
 ---
 
-## 📬 Get in Touch
-
-Want a Notion exporter, Gradio UI, or collaborative editor built into this?
-Open an issue or reach out — happy to help or collaborate.
-
-URL: https://ai-book-publisher-153201335254.us-central1.run.app/
