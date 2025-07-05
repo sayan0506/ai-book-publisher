@@ -1,7 +1,4 @@
-# **Multi-Agent AI Book Publisher with Human-In-Loop**
-
-
-# 📚 AI Book Publisher — Multi-Agent Workflow with LangGraph, Gemini & Streamlit
+# 📚 **AI Book Publisher — Multi-Agent Workflow with LangGraph, Gemini & Streamlit**
 
 A production-ready, multi-agent AI system that automates the book publishing pipeline using:
 
