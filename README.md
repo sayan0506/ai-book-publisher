@@ -12,6 +12,13 @@ A production-ready, multi-agent AI system that automates the book publishing pip
 
 ---
 
+## 📝 Blog Walkthrough
+
+📖 Read the full implementation guide on Medium:  
+🔗 [AI-Powered Book Publication Workflow with LangGraph and Google Gemini](https://medium.com/@hazrasayan201442/ai-powered-book-publication-workflow-with-langgraph-and-google-gemini-1df9f41e63bf)
+
+---
+
 ## 🚀 Features
 
 | Component        | Functionality                                            |
