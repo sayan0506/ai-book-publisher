@@ -163,13 +163,14 @@ gcloud run deploy ai-book-publisher \
 
 ---
 
-📺 Live Demo (Streamlit)
+#### 📺 Live Demo (Streamlit)
+
 Experience the full multi-agent AI publishing pipeline in action through a clean, interactive Streamlit UI:
 
-🔗 Try the Live Demo (replace with your URL)
+#### 🔗 Try the Live Demo (replace with your URL)
 
 
-✨ What You Can Do:
+#### ✨ What You Can Do:
 
 📝 Enter any public URL to scrape article content
 ✍️ Watch it get rewritten by the Writer Agent
