@@ -167,15 +167,4 @@ MIT License © 2025 [Sayan Hazra](https://github.com/hazrasayan)
 Want a Notion exporter, Gradio UI, or collaborative editor built into this?
 Open an issue or reach out — happy to help or collaborate.
 
-```
-
----
-
-Let me know if you want:
-- GitHub badges (stars, license, Streamlit deploy button)
-- `requirements.txt` auto-generated
-- Mermaid diagram as an image instead
-- Markdown + PDF export of this README
-```
-
 URL: https://ai-book-publisher-153201335254.us-central1.run.app/
