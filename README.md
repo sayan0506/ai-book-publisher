@@ -171,12 +171,12 @@ Experience the full multi-agent AI publishing pipeline in action through a clean
 
 
 #### ✨ What You Can Do:
-
-📝 Enter any public URL to scrape article content
-✍️ Watch it get rewritten by the Writer Agent
-🧠 Review AI feedback and decisions from other agents
-🧍 Interact with human-in-the-loop approval buttons
-🧾 View reviewer feedback and final quality checks
+ 
+- 📝 Enter any public URL to scrape article content
+- ✍️ Watch it get rewritten by the Writer Agent
+- 🧠 Review AI feedback and decisions from other agents
+- 🧍 Interact with human-in-the-loop approval buttons
+- 🧾 View reviewer feedback and final quality checks
 
 The demo also logs agent decisions and stores versioned content in ChromaDB in real time.
 
