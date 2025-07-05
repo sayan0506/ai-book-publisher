@@ -167,6 +167,8 @@ gcloud run deploy ai-book-publisher \
 
 Experience the full multi-agent AI publishing pipeline in action through a clean, interactive Streamlit UI:
 
+![Streamlit UI](https://github.com/sayan0506/Multi-Agent-AI-Book-Publisher/blob/main/media/streamlit_ui.png)
+
 #### 🔗 Try the Live Demo (replace with your URL)
 
 
