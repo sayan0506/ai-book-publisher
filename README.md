@@ -163,6 +163,22 @@ gcloud run deploy ai-book-publisher \
 
 ---
 
+📺 Live Demo (Streamlit)
+Experience the full multi-agent AI publishing pipeline in action through a clean, interactive Streamlit UI:
+
+🔗 Try the Live Demo (replace with your URL)
+
+
+✨ What You Can Do:
+
+📝 Enter any public URL to scrape article content
+✍️ Watch it get rewritten by the Writer Agent
+🧠 Review AI feedback and decisions from other agents
+🧍 Interact with human-in-the-loop approval buttons
+🧾 View reviewer feedback and final quality checks
+
+The demo also logs agent decisions and stores versioned content in ChromaDB in real time.
+
 ## 📄 License
 
 MIT License © 2025 [Sayan Hazra](https://github.com/hazrasayan)
